@@ -1,0 +1,8 @@
+{
+  "container" : {
+    "data_generator": "generator",
+    "data_curator": "data_curator",
+    "ml_engine": "ml_engine",
+    "result_curator": "result_curator"
+  }
+}
